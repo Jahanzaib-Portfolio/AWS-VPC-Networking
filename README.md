@@ -1,4 +1,4 @@
-# AWS VPC Project Custom Network Setup
+# AWS VPC ( Custom Network Setup )
 
 ## Project Overview
 This project demonstrates how to set up a secure Amazon VPC (Virtual Private Cloud) with public and private subnets, routing, and internet access. It provides a hands-on understanding of how AWS networking components work together to host EC2 instances in both public and private environments.
